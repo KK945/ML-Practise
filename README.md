@@ -1,3 +1,4 @@
 # ML-Practise
 
-ML in Natural language processing
+-ML in Natural language processing
+-CNN on Satellite images
